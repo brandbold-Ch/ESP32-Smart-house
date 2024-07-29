@@ -1,0 +1,35 @@
+#Description {
+    background-color: #eaa8fd;
+    border-radius: 10px;
+}
+
+#Title {
+    color: black;
+    font-size: 30px;
+    font-family: "Arial";
+}
+
+#Leds {
+    background-color: #181717;
+    border-radius: 10px;
+}
+
+#Leds:hover {
+    background-color: #383737;
+    border-radius: 10px;
+}
+
+#LDR {
+    background-color: #6fad97;
+    border-radius: 10px;
+}
+
+#Thermistor {
+    background-color: #43dce2;
+    border-radius: 10px;
+}
+
+#Sonic {
+    background-color: dimgray;
+    border-radius: 10px;
+}
